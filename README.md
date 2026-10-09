@@ -12,6 +12,7 @@
 | --- | --- |
 | **[外贸实用工具](https://github.com/jordan-partstrade/trade-agent-skills)** | 九个工具：WhatsApp 询价整理、发票与装箱单、带图询价单、多车型报价、报价检查、运费估算、门到门成本比较、表格翻译和局部修改。 |
 | **[Agent 交接与验收](https://github.com/jordan-partstrade/agent-handoff-review-verify)** | 网站访客检查、通用自验模板，以及从交接到实际验收的流程。附可以运行的虚构样例。 |
+| **[给海外小店做网站](https://partstradeai.com/en/)** | 给汽配店这类小店做能直接询价的网站：品牌、车型、配件分类，一键到店主的 WhatsApp。先看预览，满意再决定。[Español](https://partstradeai.com/es/) |
 | **[Senz · 个人站](https://partstradeai.com/)** | 放我的项目、小实验和做出来的东西。 |
 
 ### 直接试用

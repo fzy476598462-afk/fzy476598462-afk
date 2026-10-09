@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/jordan-partstrade/jordan-partstrade/main/assets/banner.svg" alt="Jordan — practical tools for trade, built in the open" width="900"></p>
 
-<p align="center"><a href="README.md">简体中文</a> · <a href="https://partstradeai.com/">Projects</a> · <a href="https://github.com/jordan-partstrade/trade-agent-skills">Trade Agent Skills</a></p>
+<p align="center"><a href="README.md">简体中文</a> · <a href="https://partstradeai.com/">Projects</a> · <a href="https://partstradeai.com/en/">Websites for parts shops</a> · <a href="https://github.com/jordan-partstrade/trade-agent-skills">Trade Agent Skills</a></p>
 
 I build practical tools for everyday international trade work: documents, freight and spreadsheets.
 
@@ -10,6 +10,7 @@ I build practical tools for everyday international trade work: documents, freigh
 | --- | --- |
 | **[Trade Agent Skills](https://github.com/jordan-partstrade/trade-agent-skills)** | Nine tools: WhatsApp RFQ intake, invoices, supplier RFQs, multi-model quotes, quote checks, freight, landed costs and workbook translation / edits. [English guide](https://github.com/jordan-partstrade/trade-agent-skills/blob/main/README.en.md). |
 | **[Agent Handoff · Review · Verify](https://github.com/jordan-partstrade/agent-handoff-review-verify)** | Runnable website visitor checks and an agent verification template, with a handoff workflow and fictional examples. [English guide](https://github.com/jordan-partstrade/agent-handoff-review-verify/blob/main/README.en.md). |
+| **[Websites for auto parts shops](https://partstradeai.com/en/)** | I build websites for small parts shops: brands, models and a catalogue that sends buyers straight to the shop's WhatsApp. See a free preview first, then decide. [Español](https://partstradeai.com/es/) |
 | **[Senz / Personal site](https://partstradeai.com/)** | My home for projects, experiments and things I make. |
 
 ### Try something
